@@ -37,3 +37,6 @@ words = [{
 }]
 
 app_id = 2
+
+broker_url = "localhost"
+broker_port = 1883
